@@ -1,0 +1,408 @@
+MachineName: SMILEX-PC
+====================================================================================================
+[19:31:17] 
+******Begin Reading********
+[19:31:17] From File: Settings\domains.txt
+[19:31:17] Loaded [1] Lines at [18] ms from [Settings\domains.txt]
+[19:31:17] 
+******Begin Reading********
+[19:31:17] From File: Settings\stubs.txt
+[19:31:17] Loaded [3] Lines at [1] ms from [Settings\stubs.txt]
+[19:31:53] ----------------------------------------------------------------------------------------------------
+[19:31:53] TraceRoute to ya.ru
+[19:31:53] ----------------------------------------------------------------------------------------------------
+[19:31:53] 192.168.1.1
+[19:31:53] 80.92.216.9
+[19:31:53] 80.92.216.133
+[19:31:53] 80.92.216.98
+[19:31:53] 212.188.23.204
+[19:31:53] 212.188.55.38
+[19:31:53] 212.188.28.57
+[19:31:53] 212.188.29.25
+[19:31:53] 212.188.28.150
+[19:31:53] 212.188.28.137
+[19:31:53] 195.34.36.30
+[19:31:53] 87.250.250.242
+[19:31:53] ----------------------------------------------------------------------------------------------------
+[19:31:53] Loading Domains from Settings\domains.txt
+[19:31:53] **************************************************
+[19:31:53] blocked.mts.ru
+[19:31:53] **************************************************
+[19:31:53] Loading Stubs from Settings\stubs.txt
+[19:31:53] **************************************************
+[19:31:53]             <div class="page-error__text">
+[19:31:53]                 Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г.&nbsp;N&nbsp;149-ФЗ "Об информации, информационных технологиях и о защите информации"
+[19:31:53]             </div>
+[19:31:53] **************************************************
+[19:31:53] 
+******Begin Reading********
+
+[19:31:53] File: F:\Debug\dump-905614_2019_07_08.txt
+[19:31:53] #1 URL: http://rzd.company DOMAIN: rzd.company IP: 188.242.178.192
+[19:31:53] #2 URL: http://allll.net/wiki/Антон_Викторович_Карпиевич DOMAIN: allll.net IP: 104.24.96.128
+[19:31:53] #3 URL: https://tspravochnik.com DOMAIN: tspravochnik.com IP: 190.2.148.206
+[19:31:53] #4 URL: http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815 DOMAIN: forum.ozpp.ru IP: 95.163.66.107
+[19:31:53] #5 URL: https://m.vk-m.ru DOMAIN: m.vk-m.ru IP: 104.27.181.38
+[19:31:53] #6 URL: http://www.zewaka.net/2018/07/08/8740.html DOMAIN: www.zewaka.net IP: 104.27.138.233
+[19:31:53] #7 URL: http://evgeniy-volnov.hk/ DOMAIN: evgeniy-volnov.hk IP: 104.28.24.57
+[19:31:53] #8 URL: https://ru.nomer-ok.info DOMAIN: ru.nomer-ok.info IP: 104.31.70.54
+[19:31:53] #9 URL: http://nomer.center DOMAIN: nomer.center IP: 91.220.101.43
+[19:31:53] #10 URL: http://www.экотех.com DOMAIN: www.экотех.com IP: 212.224.118.117
+[19:31:53] #11 URL: https://gytely.rosfirm.info DOMAIN: gytely.rosfirm.info IP: 104.18.53.222
+[19:31:53] #12 URL: https://avtobot.ru/ DOMAIN: avtobot.ru IP: 116.202.101.28
+[19:31:53] #13 URL: http://www.samosud.org/case_447188351 DOMAIN: www.samosud.org IP: 64.233.161.121
+[19:31:53] #14 URL: https://poisk-vk.ru DOMAIN: poisk-vk.ru IP: 104.31.89.229
+[19:31:53] #15 URL: http://www.phoneru.com/ DOMAIN: www.phoneru.com IP: 104.24.126.229
+[19:31:53] #16 URL: http://chelyabinsknomer.com/ DOMAIN: chelyabinsknomer.com IP: 212.83.158.227
+[19:31:53] #17 URL: http://rusanswers.com/pervaya-polosa/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87 DOMAIN: rusanswers.com IP: 104.27.159.48
+[19:31:53] #18 URL: http://prokurorska-pravda.today/novosti/item/103407-otsidevshij-za-afery-dmitrij-kharitin-prodolzhaet-grabit-rossiyan DOMAIN: prokurorska-pravda.today IP: 104.27.138.166
+[19:31:53] #19 URL: http://bravo-city.com/item/23389-otsidevshiy-za-afery-dmitriy-haritin-prodolzhaet-grabit-rossiyan DOMAIN: bravo-city.com IP: 104.18.61.69
+[19:31:53] #20 URL: https://phreaker.pro DOMAIN: phreaker.pro IP: 79.143.186.116
+[19:31:53] #21 URL: http://www.sovsekretno.net/novosti/item/28372-vnimanie-moshennik-haritin-dmitriy DOMAIN: www.sovsekretno.net IP: 104.27.159.96
+[19:31:53] #22 URL: https://vkperson.com DOMAIN: vkperson.com IP: 173.224.123.247
+[19:31:53] #23 URL: https://telspravochnik.com DOMAIN: telspravochnik.com IP: 185.74.254.45
+[19:31:53] #24 URL: http://sexcommunity.pro DOMAIN: sexcommunity.pro IP: 104.28.8.69
+[19:31:53] #25 URL: http://gytely.rosfirm.info DOMAIN: gytely.rosfirm.info IP: 104.18.53.222
+[19:31:53] #26 URL: http://spichka.press/sankcii-ssha-ponravilis-armyaninu-rubenu-tatulyanu-robsonu-kotoryj-vdrug-stal-v-zakone/ DOMAIN: spichka.press IP: 37.57.182.35
+[19:31:53] #27 URL: http://tsn.life/bandit-robson-xozyain-sochi/ DOMAIN: tsn.life IP: 109.86.118.121
+[19:31:53] #28 URL: http://raketa.press/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ DOMAIN: raketa.press IP: 37.57.182.35
+[19:31:53] #29 URL: http://www.pravda.rv.ua/analitika/item/325005-bandit-robson-khozyain-sochi DOMAIN: www.pravda.rv.ua IP: 104.27.134.51
+[19:31:53] #30 URL: http://vse.media/pochemu-v-sochi-terpyat-vlast-bandita-tatulyana/ DOMAIN: vse.media IP: 138.201.129.218
+[19:31:53] #31 URL: http://ru.nomer-ok.info DOMAIN: ru.nomer-ok.info IP: 104.31.70.54
+[19:31:54] #32 URL: https://avinfo17.info DOMAIN: avinfo17.info IP: 159.69.7.37
+[19:31:54] #33 URL: http://centrzakona.info/reviews DOMAIN: centrzakona.info IP: 104.27.181.54
+[19:31:54] #34 URL: http://centrzakona.info/reviews/show DOMAIN: centrzakona.info IP: 104.27.181.54
+[19:31:54] #35 URL: http://centrzakona.info/reviews/show/gvka DOMAIN: centrzakona.info IP: 104.27.181.54
+[19:31:54] #36 URL: http://five.check-you.su DOMAIN: five.check-you.su IP: 104.27.168.104
+[19:31:54] #37 URL: http://hiddenvk.ru DOMAIN: hiddenvk.ru IP: 104.24.112.212
+[19:31:54] #38 URL: http://tspravochnik.com DOMAIN: tspravochnik.com IP: 190.2.148.206
+[19:31:54] #39 URL: https://hidden-vk.ru/ DOMAIN: hidden-vk.ru IP: 104.27.179.94
+[19:31:54] #40 URL: https://vzglyad.az/news/101078/%D0%A0%D1%83%D0%B1%D0%B5%D0%BD-%D0%A2%D0%B0%D1%82%D1%83%D0%BB%D1%8F%D0%BD--%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BF%D0%BE%D1%80%D0%B0-%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%BE%D1%82-%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8-.html DOMAIN: vzglyad.az IP: 104.28.5.25
+[19:31:54] #41 URL: https://4fo.ru/zakon/3811-sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ DOMAIN: 4fo.ru IP: 207.180.198.248
+[19:31:54] #42 URL: http://pismo-prezidentu.info/rabota/proyti-praktiku-i-poluchit-rekomendatsiyu-v-odnoy-iz-neftyanyh-kompanii-gazprom/ DOMAIN: pismo-prezidentu.info IP: 104.28.30.20
+[19:31:54] #43 URL: https://gyteli.rosfirm.info DOMAIN: gyteli.rosfirm.info IP: 104.18.53.222
+[19:31:54] #44 URL: http://glavcom.life/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ DOMAIN: glavcom.life IP: 109.86.118.251
+[19:31:54] #45 URL: http://skandaly.info/skandaly/robson-sankcionnyi-sponsor-vorov-v-zak DOMAIN: skandaly.info IP: 104.18.46.9
+[19:31:54] #46 URL: http://www.1news.az/mobile/news/polzuchaya-armenizaciya-kak-armyane-pribrali-k-rukam-luchshie-kurorty-rossii-i-ne-tol-ko DOMAIN: www.1news.az IP: 104.27.178.14
+[19:31:54] #47 URL: http://www.vstarine.com/item/40171-robson-sankcionnyy-sponsor-vorov-v-zakone DOMAIN: www.vstarine.com IP: 104.28.4.254
+[19:31:54] #48 URL: http://baurgroupe.com/novosti/43906 DOMAIN: baurgroupe.com IP: 195.201.222.101
+[19:31:54] #49 URL: http://stctv.ru/8842-17-artur-molodoj-erevanskuyu-sxodku-po-zadaniyu-shakro-molodogo-organizovyvali-robson-ruben-tatulyan-i-kostya-manukyan.html DOMAIN: stctv.ru IP: 104.31.90.140
+[19:31:54] #50 URL: http://prokurorska-pravda.com/novosti/item/13374-robson-sankcionnyy-sponsor-vorov-v-zakone DOMAIN: prokurorska-pravda.com IP: 104.27.153.82
+[19:31:54] #51 URL: http://sosmesh.com/item/4314-1518216444 DOMAIN: sosmesh.com IP: 104.27.184.194
+[19:31:54] #52 URL: https://bugabooks.com/post/229099 DOMAIN: bugabooks.com IP: 104.31.79.231
+[19:31:54] #53 URL: http://novostiua.org/news/588956-robson_sanktsionnyj_sponsor_vorov_v_zakone DOMAIN: novostiua.org IP: 185.203.72.9
+[19:31:54] #54 URL: http://epravda.life/robson-sankcionnyj-sponsor-vorov-v-zakone/ DOMAIN: epravda.life IP: 104.27.178.141
+[19:31:54] #55 URL: http://moscowstreets.net/item/11829-robson-sankcionnyy-sponsor-vorov-v-zakone DOMAIN: moscowstreets.net IP: 104.18.60.200
+[19:31:54] #56 URL: http://novostiua.org/news/790856-pochemu_v_sochi_terpjat_vlastj_bandy_vora_i_ubijtsy_tatuljana_po_klichke_robson DOMAIN: novostiua.org IP: 185.203.72.9
+[19:31:54] #57 URL: http://raketa.press/pochemu-v-sochi-terpyat-vlast-bandy-vora-i-ubijcy-tatulyana-po-klichke-robson/ DOMAIN: raketa.press IP: 37.57.182.35
+[19:31:54] #58 URL: http://taras-ua.com/Publikatsii/66703 DOMAIN: taras-ua.com IP: 104.27.156.83
+[19:31:54] #59 URL: http://nomer.cc/ DOMAIN: nomer.cc IP: 91.220.101.43
+[19:31:54] #60 URL: http://www.check-you.ru/ DOMAIN: www.check-you.ru IP: 104.31.4.154
+[19:31:54] #61 URL: https://jyteli.rosfirm.info DOMAIN: jyteli.rosfirm.info IP: 104.18.53.222
+[19:31:54] #62 URL: http://sobyanin-2018.com/novosti/item/48306-1537130881#about DOMAIN: sobyanin-2018.com IP: 104.28.26.118
+[19:31:54] #63 URL: https://jytely.rosfirm.info/ DOMAIN: jytely.rosfirm.info IP: 104.18.53.222
+[19:31:54] #64 URL: https://nomer-ok.info DOMAIN: nomer-ok.info IP: 104.31.70.54
+[19:31:54] #65 URL: http://tsn.life/sochi-i-kristalno-chistyj-ruben-tatulyan/ DOMAIN: tsn.life IP: 109.86.118.121
+[19:31:54] #66 URL: https://www.imao.site/rev/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82+%D0%A2%D0%B0%D1%82%D1%83%D0%BB%D1%8F%D0%BD/ DOMAIN: www.imao.site IP: 195.123.233.156
+[19:31:54] #67 URL: http://www.news-sirotin.com/rassledovaniya/2275 DOMAIN: www.news-sirotin.com IP: 104.24.117.92
+[19:31:54] #68 URL: http://info-expert.net/novosti/item/1056-bandit-robson-khozyain-sochi DOMAIN: info-expert.net IP: 104.24.114.43
+[19:31:54] #69 URL: http://www.compromat.ru/page_38684.htm DOMAIN: www.compromat.ru IP: 91.202.63.16
+[19:31:54] #70 URL: https://ru.doc.guru/moskva/doctor/careva-n-v DOMAIN: ru.doc.guru IP: 62.212.89.2
+[19:31:54] #71 URL: https://work-info.org/chernyj-spisok-sotrudnikov/1257-yuzikov-aleksandr-aleksandrovich DOMAIN: work-info.org IP: 185.43.223.232
+[19:31:54] #72 URL: http://nomer-ok.info DOMAIN: nomer-ok.info IP: 104.31.71.54
+[19:31:54] #73 URL: http://persona-l.com/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA! DOMAIN: persona-l.com IP: 104.31.86.36
+[19:31:54] #74 URL: http://persona-l.com/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87 DOMAIN: persona-l.com IP: 104.31.87.36
+[19:31:54] #75 URL: http://persona-l.com/item/10786-vnimanie-moshennik-haritin-dmitriy-vladimirovich DOMAIN: persona-l.com IP: 104.31.87.36
+[19:31:54] #76 URL: http://polemika.top/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA! DOMAIN: polemika.top IP: 104.28.2.217
+[19:31:54] #77 URL: http://polemika.top/item/122033-vnimanie-moshennik-haritin-dmitriy-vladimirovich DOMAIN: polemika.top IP: 104.28.2.217
+[19:31:54] #78 URL: http://bravo-city.com/item/6703-vnimanie-moshennik-haritin-dmitriy-vladimirovich DOMAIN: bravo-city.com IP: 104.18.60.69
+[19:31:54] Loaded [79] URL's at [237] ms
+[19:31:54] Url [http://taras-ua.com/Publikatsii/66703] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Ftaras-ua.com%2F%50ublikatsii%2F66703&ip=104.27.156.83]
+[19:31:54] Url [http://taras-ua.com/Publikatsii/66703] Blocked
+[19:31:54] HOST http://taras-ua.com/Publikatsii/66703 is Blocked
+[19:31:54] [1 of 78] at [0] s
+[19:31:54] HOST https://phreaker.pro Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 281 ms
+[19:31:54] HOST https://phreaker.pro is Unavailable
+[19:31:54] [2 of 78] at [0] s
+[19:31:54] Url [http://www.sovsekretno.net/novosti/item/28372-vnimanie-moshennik-haritin-dmitriy] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.sovsekretno.net%2Fnovosti%2Fitem%2F28372-vnimanie-moshennik-haritin-dmitriy&ip=104.27.158.96]
+[19:31:54] Url [http://www.sovsekretno.net/novosti/item/28372-vnimanie-moshennik-haritin-dmitriy] Blocked
+[19:31:54] HOST http://www.sovsekretno.net/novosti/item/28372-vnimanie-moshennik-haritin-dmitriy is Blocked
+[19:31:54] [3 of 78] at [0] s
+[19:31:54] Url [http://nomer.cc/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnomer.cc%2F&ip=91.220.101.43]
+[19:31:54] Url [http://nomer.cc/] Blocked
+[19:31:54] HOST http://nomer.cc/ is Blocked
+[19:31:54] [4 of 78] at [0] s
+[19:31:54] Url [http://www.check-you.ru/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.check-you.ru%2F&ip=104.31.4.154]
+[19:31:54] Url [http://www.check-you.ru/] Blocked
+[19:31:54] HOST http://www.check-you.ru/ is Blocked
+[19:31:54] [5 of 78] at [0] s
+[19:31:55] HOST https://vkperson.com Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 467 ms
+[19:31:55] HOST https://vkperson.com is Unavailable
+[19:31:55] [6 of 78] at [0] s
+[19:31:55] HOST https://jyteli.rosfirm.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 180 ms
+[19:31:55] HOST https://jyteli.rosfirm.info is Unavailable
+[19:31:55] [7 of 78] at [1] s
+[19:31:55] HOST https://telspravochnik.com Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 213 ms
+[19:31:55] HOST https://telspravochnik.com is Unavailable
+[19:31:55] [8 of 78] at [1] s
+[19:31:55] Url [http://sobyanin-2018.com/novosti/item/48306-1537130881#about] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fsobyanin-2018.com%2Fnovosti%2Fitem%2F48306-1537130881&ip=104.28.27.118]
+[19:31:55] Url [http://sobyanin-2018.com/novosti/item/48306-1537130881#about] Blocked
+[19:31:55] HOST http://sobyanin-2018.com/novosti/item/48306-1537130881#about is Blocked
+[19:31:55] Url [http://rzd.company] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Frzd.company%2F&ip=188.242.178.192]
+[19:31:55] [9 of 78] at [1] s
+[19:31:55] Url [http://rzd.company] Blocked
+[19:31:55] HOST http://rzd.company is Blocked
+[19:31:55] [10 of 78] at [1] s
+[19:31:55] HOST https://hidden-vk.ru/ Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 1252 ms
+[19:31:55] HOST https://hidden-vk.ru/ is Unavailable
+[19:31:55] [11 of 78] at [1] s
+[19:31:55] Url [http://sexcommunity.pro] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fsexcommunity.pro%2F&ip=104.28.8.69]
+[19:31:55] Url [http://sexcommunity.pro] Blocked
+[19:31:55] HOST http://sexcommunity.pro is Blocked
+[19:31:55] [12 of 78] at [1] s
+[19:31:55] HOST https://jytely.rosfirm.info/ Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 183 ms
+[19:31:55] HOST https://jytely.rosfirm.info/ is Unavailable
+[19:31:55] [13 of 78] at [1] s
+[19:31:55] Url [http://allll.net/wiki/Антон_Викторович_Карпиевич] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fallll.net%2Fwiki%2F%25%440%2590%25%440%25%42%44%25%441%2582%25%440%25%42%45%25%440%25%42%44_%25%440%2592%25%440%25%428%25%440%25%42%41%25%441%2582%25%440%25%42%45%25%441%2580%25%440%25%42%45%25%440%25%422%25%440%25%428%25%441%2587_%25%440%259%41%25%440%25%420%25%441%2580%25%440%25%42%46%25%440%25%428%25%440%25%425%25%440%25%422%25%440%25%428%25%441%2587&ip=104.24.97.128]
+[19:31:55] Url [http://allll.net/wiki/Антон_Викторович_Карпиевич] Blocked
+[19:31:55] HOST http://allll.net/wiki/Антон_Викторович_Карпиевич is Blocked
+[19:31:55] [14 of 78] at [1] s
+[19:31:55] HOST https://vzglyad.az/news/101078/%D0%A0%D1%83%D0%B1%D0%B5%D0%BD-%D0%A2%D0%B0%D1%82%D1%83%D0%BB%D1%8F%D0%BD--%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BF%D0%BE%D1%80%D0%B0-%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%BE%D1%82-%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8-.html Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 199 ms
+[19:31:55] HOST https://vzglyad.az/news/101078/%D0%A0%D1%83%D0%B1%D0%B5%D0%BD-%D0%A2%D0%B0%D1%82%D1%83%D0%BB%D1%8F%D0%BD--%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BF%D0%BE%D1%80%D0%B0-%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%BE%D1%82-%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8-.html is Unavailable
+[19:31:55] [15 of 78] at [1] s
+[19:31:55] Url [http://gytely.rosfirm.info] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fgytely.rosfirm.info%2F&ip=104.18.52.222]
+[19:31:55] Url [http://gytely.rosfirm.info] Blocked
+[19:31:55] HOST http://gytely.rosfirm.info is Blocked
+[19:31:55] [16 of 78] at [1] s
+[19:31:55] HOST https://nomer-ok.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 204 ms
+[19:31:55] HOST https://nomer-ok.info is Unavailable
+[19:31:55] [17 of 78] at [1] s
+[19:31:55] HOST https://4fo.ru/zakon/3811-sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 249 ms
+[19:31:55] HOST https://4fo.ru/zakon/3811-sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ is Unavailable
+[19:31:55] [18 of 78] at [1] s
+[19:31:55] Url [http://spichka.press/sankcii-ssha-ponravilis-armyaninu-rubenu-tatulyanu-robsonu-kotoryj-vdrug-stal-v-zakone/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fspichka.press%2Fsankcii-ssha-ponravilis-armyaninu-rubenu-tatulyanu-robsonu-kotoryj-vdrug-stal-v-zakone%2F&ip=104.28.22.245]
+[19:31:55] HOST https://tspravochnik.com Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 314 ms
+[19:31:55] Url [http://spichka.press/sankcii-ssha-ponravilis-armyaninu-rubenu-tatulyanu-robsonu-kotoryj-vdrug-stal-v-zakone/] Blocked
+[19:31:55] HOST https://tspravochnik.com is Unavailable
+[19:31:55] HOST http://spichka.press/sankcii-ssha-ponravilis-armyaninu-rubenu-tatulyanu-robsonu-kotoryj-vdrug-stal-v-zakone/ is Blocked
+[19:31:55] [19 of 78] at [1] s
+[19:31:55] [19 of 78] at [1] s
+[19:31:55] Url [http://tsn.life/sochi-i-kristalno-chistyj-ruben-tatulyan/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Ftsn.life%2Fsochi-i-kristalno-chistyj-ruben-tatulyan%2F&ip=104.18.45.152]
+[19:31:55] Url [http://tsn.life/sochi-i-kristalno-chistyj-ruben-tatulyan/] Blocked
+[19:31:55] HOST http://tsn.life/sochi-i-kristalno-chistyj-ruben-tatulyan/ is Blocked
+[19:31:55] [21 of 78] at [1] s
+[19:31:56] Url [http://polemika.top/item/122033-vnimanie-moshennik-haritin-dmitriy-vladimirovich] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fpolemika.top%2Fitem%2F122033-vnimanie-moshennik-haritin-dmitriy-vladimirovich&ip=104.28.3.217]
+[19:31:56] Url [http://polemika.top/item/122033-vnimanie-moshennik-haritin-dmitriy-vladimirovich] Blocked
+[19:31:56] HOST http://polemika.top/item/122033-vnimanie-moshennik-haritin-dmitriy-vladimirovich is Blocked
+[19:31:56] Url [http://tsn.life/bandit-robson-xozyain-sochi/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Ftsn.life%2Fbandit-robson-xozyain-sochi%2F&ip=104.18.45.152]
+[19:31:56] [22 of 78] at [1] s
+[19:31:56] Url [http://tsn.life/bandit-robson-xozyain-sochi/] Blocked
+[19:31:56] HOST http://tsn.life/bandit-robson-xozyain-sochi/ is Blocked
+[19:31:56] [23 of 78] at [1] s
+[19:31:56] HOST https://www.imao.site/rev/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82+%D0%A2%D0%B0%D1%82%D1%83%D0%BB%D1%8F%D0%BD/ Warning: [Невозможно разрешить удаленное имя: 'www.imao.site'] delay 87 ms
+[19:31:56] Url [http://pismo-prezidentu.info/rabota/proyti-praktiku-i-poluchit-rekomendatsiyu-v-odnoy-iz-neftyanyh-kompanii-gazprom/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fpismo-prezidentu.info%2Frabota%2Fproyti-praktiku-i-poluchit-rekomendatsiyu-v-odnoy-iz-neftyanyh-kompanii-gazprom%2F&ip=104.28.31.20]
+[19:31:56] HOST https://www.imao.site/rev/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82+%D0%A2%D0%B0%D1%82%D1%83%D0%BB%D1%8F%D0%BD/ is Unavailable
+[19:31:56] Url [http://pismo-prezidentu.info/rabota/proyti-praktiku-i-poluchit-rekomendatsiyu-v-odnoy-iz-neftyanyh-kompanii-gazprom/] Blocked
+[19:31:56] [24 of 78] at [1] s
+[19:31:56] HOST http://pismo-prezidentu.info/rabota/proyti-praktiku-i-poluchit-rekomendatsiyu-v-odnoy-iz-neftyanyh-kompanii-gazprom/ is Blocked
+[19:31:56] [25 of 78] at [1] s
+[19:31:56] Url [http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fforum.ozpp.ru%2Fshowthread.php%3Fmode%3Dhyprid%26t%3D187815&ip=95.163.66.107]
+[19:31:56] Url [http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815] Blocked
+[19:31:56] HOST http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815 is Blocked
+[19:31:56] [26 of 78] at [1] s
+[19:31:56] Url [http://bravo-city.com/item/6703-vnimanie-moshennik-haritin-dmitriy-vladimirovich] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fbravo-city.com%2Fitem%2F6703-vnimanie-moshennik-haritin-dmitriy-vladimirovich&ip=104.18.61.69]
+[19:31:56] Url [http://bravo-city.com/item/6703-vnimanie-moshennik-haritin-dmitriy-vladimirovich] Blocked
+[19:31:56] HOST http://bravo-city.com/item/6703-vnimanie-moshennik-haritin-dmitriy-vladimirovich is Blocked
+[19:31:56] [27 of 78] at [2] s
+[19:31:56] Url [http://raketa.press/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fraketa.press%2Fsochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta%2F&ip=104.31.70.88]
+[19:31:56] Url [http://raketa.press/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/] Blocked
+[19:31:56] HOST https://m.vk-m.ru Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 104 ms
+[19:31:56] HOST http://raketa.press/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ is Blocked
+[19:31:56] HOST https://m.vk-m.ru is Unavailable
+[19:31:56] [28 of 78] at [2] s
+[19:31:56] [28 of 78] at [2] s
+[19:31:56] HOST https://ru.nomer-ok.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 130 ms
+[19:31:56] HOST https://ru.nomer-ok.info is Unavailable
+[19:31:56] HOST https://gyteli.rosfirm.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 192 ms
+[19:31:56] [30 of 78] at [2] s
+[19:31:56] HOST https://gyteli.rosfirm.info is Unavailable
+[19:31:56] [31 of 78] at [2] s
+[19:31:56] Url [http://www.zewaka.net/2018/07/08/8740.html] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.zewaka.net%2F2018%2F07%2F08%2F8740.html&ip=104.27.138.233]
+[19:31:56] Url [http://www.zewaka.net/2018/07/08/8740.html] Blocked
+[19:31:56] HOST http://www.zewaka.net/2018/07/08/8740.html is Blocked
+[19:31:56] [32 of 78] at [2] s
+[19:31:56] Url [http://www.pravda.rv.ua/analitika/item/325005-bandit-robson-khozyain-sochi] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.pravda.rv.ua%2Fanalitika%2Fitem%2F325005-bandit-robson-khozyain-sochi&ip=104.27.134.51]
+[19:31:56] Url [http://www.pravda.rv.ua/analitika/item/325005-bandit-robson-khozyain-sochi] Blocked
+[19:31:56] HOST http://www.pravda.rv.ua/analitika/item/325005-bandit-robson-khozyain-sochi is Blocked
+[19:31:56] [33 of 78] at [2] s
+[19:31:56] Url [http://evgeniy-volnov.hk/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fevgeniy-volnov.hk%2F&ip=104.28.24.57]
+[19:31:56] Url [http://evgeniy-volnov.hk/] Blocked
+[19:31:56] HOST http://evgeniy-volnov.hk/ is Blocked
+[19:31:56] [34 of 78] at [2] s
+[19:31:56] Url [http://glavcom.life/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fglavcom.life%2Fsochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta%2F&ip=104.28.3.156]
+[19:31:56] Url [http://glavcom.life/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/] Blocked
+[19:31:56] HOST http://glavcom.life/sochi-robson-biografiya-i-zhizn-kriminalnogo-avtoriteta/ is Blocked
+[19:31:56] [35 of 78] at [2] s
+[19:31:56] Url [http://nomer.center] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnomer.center%2F&ip=91.220.101.43]
+[19:31:56] Url [http://nomer.center] Blocked
+[19:31:56] HOST http://nomer.center is Blocked
+[19:31:56] [36 of 78] at [2] s
+[19:31:56] Url [http://vse.media/pochemu-v-sochi-terpyat-vlast-bandita-tatulyana/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fvse.media%2Fpochemu-v-sochi-terpyat-vlast-bandita-tatulyana%2F&ip=104.31.71.112]
+[19:31:56] Url [http://vse.media/pochemu-v-sochi-terpyat-vlast-bandita-tatulyana/] Blocked
+[19:31:56] HOST http://vse.media/pochemu-v-sochi-terpyat-vlast-bandita-tatulyana/ is Blocked
+[19:31:56] [37 of 78] at [2] s
+[19:31:56] Url [http://skandaly.info/skandaly/robson-sankcionnyi-sponsor-vorov-v-zak] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fskandaly.info%2Fskandaly%2Frobson-sankcionnyi-sponsor-vorov-v-zak&ip=104.18.46.9]
+[19:31:56] Url [http://skandaly.info/skandaly/robson-sankcionnyi-sponsor-vorov-v-zak] Blocked
+[19:31:56] HOST http://skandaly.info/skandaly/robson-sankcionnyi-sponsor-vorov-v-zak is Blocked
+[19:31:56] [38 of 78] at [2] s
+[19:31:56] Url [http://ru.nomer-ok.info] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fru.nomer-ok.info%2F&ip=104.31.71.54]
+[19:31:56] Url [http://ru.nomer-ok.info] Blocked
+[19:31:56] HOST http://ru.nomer-ok.info is Blocked
+[19:31:56] [39 of 78] at [2] s
+[19:31:56] Response http://www.экотех.com at 147 ms
+[19:31:56] HOST https://avtobot.ru/ Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 325 ms
+[19:31:56] HOST https://avtobot.ru/ is Unavailable
+[19:31:56] [40 of 78] at [2] s
+[19:31:56] Url [http://centrzakona.info/reviews/show/gvka] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fcentrzakona.info%2Freviews%2Fshow%2Fgvka&ip=104.27.181.54]
+[19:31:56] Url [http://centrzakona.info/reviews/show/gvka] Blocked
+[19:31:56] HOST http://centrzakona.info/reviews/show/gvka is Blocked
+[19:31:56] [41 of 78] at [2] s
+[19:31:56] Url [http://www.1news.az/mobile/news/polzuchaya-armenizaciya-kak-armyane-pribrali-k-rukam-luchshie-kurorty-rossii-i-ne-tol-ko] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.1news.az%2Fmobile%2Fnews%2Fpolzuchaya-armenizaciya-kak-armyane-pribrali-k-rukam-luchshie-kurorty-rossii-i-ne-tol-ko&ip=104.27.179.14]
+[19:31:56] Url [http://www.1news.az/mobile/news/polzuchaya-armenizaciya-kak-armyane-pribrali-k-rukam-luchshie-kurorty-rossii-i-ne-tol-ko] Blocked
+[19:31:56] HOST http://www.1news.az/mobile/news/polzuchaya-armenizaciya-kak-armyane-pribrali-k-rukam-luchshie-kurorty-rossii-i-ne-tol-ko is Blocked
+[19:31:56] [42 of 78] at [2] s
+[19:31:56] Url [http://five.check-you.su] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Ffive.check-you.su%2F&ip=104.27.168.104]
+[19:31:56] Url [http://five.check-you.su] Blocked
+[19:31:56] HOST http://five.check-you.su is Blocked
+[19:31:56] [43 of 78] at [2] s
+[19:31:57] Url [http://www.vstarine.com/item/40171-robson-sankcionnyy-sponsor-vorov-v-zakone] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.vstarine.com%2Fitem%2F40171-robson-sankcionnyy-sponsor-vorov-v-zakone&ip=104.28.5.254]
+[19:31:57] Url [http://www.vstarine.com/item/40171-robson-sankcionnyy-sponsor-vorov-v-zakone] Blocked
+[19:31:57] HOST https://avinfo17.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 286 ms
+[19:31:57] HOST http://www.vstarine.com/item/40171-robson-sankcionnyy-sponsor-vorov-v-zakone is Blocked
+[19:31:57] HOST http://www.экотех.com is Blocked
+[19:31:57] HOST https://avinfo17.info is Unavailable
+[19:31:57] [44 of 78] at [2] s
+[19:31:57] [44 of 78] at [2] s
+[19:31:57] [44 of 78] at [2] s
+[19:31:57] Url [http://hiddenvk.ru] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fhiddenvk.ru%2F&ip=104.24.113.212]
+[19:31:57] Url [http://hiddenvk.ru] Blocked
+[19:31:57] HOST http://hiddenvk.ru is Blocked
+[19:31:57] [47 of 78] at [2] s
+[19:31:57] Url [http://centrzakona.info/reviews] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fcentrzakona.info%2Freviews&ip=104.27.181.54]
+[19:31:57] Url [http://centrzakona.info/reviews] Blocked
+[19:31:57] HOST http://centrzakona.info/reviews is Blocked
+[19:31:57] [48 of 78] at [3] s
+[19:31:57] HOST https://gytely.rosfirm.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 102 ms
+[19:31:57] HOST https://gytely.rosfirm.info is Unavailable
+[19:31:57] [49 of 78] at [3] s
+[19:31:57] Url [http://tspravochnik.com] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Ftspravochnik.com%2F&ip=190.2.148.206]
+[19:31:57] Url [http://tspravochnik.com] Blocked
+[19:31:57] HOST http://tspravochnik.com is Blocked
+[19:31:57] [50 of 78] at [3] s
+[19:31:57] Url [http://www.samosud.org/case_447188351] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.samosud.org%2Fcase_447188351&ip=64.233.164.121]
+[19:31:57] Url [http://www.samosud.org/case_447188351] Blocked
+[19:31:57] HOST http://www.samosud.org/case_447188351 is Blocked
+[19:31:57] [51 of 78] at [3] s
+[19:31:57] Url [http://epravda.life/robson-sankcionnyj-sponsor-vorov-v-zakone/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fepravda.life%2Frobson-sankcionnyj-sponsor-vorov-v-zakone%2F&ip=104.27.179.141]
+[19:31:57] Url [http://epravda.life/robson-sankcionnyj-sponsor-vorov-v-zakone/] Blocked
+[19:31:57] HOST http://epravda.life/robson-sankcionnyj-sponsor-vorov-v-zakone/ is Blocked
+[19:31:57] [52 of 78] at [3] s
+[19:31:57] Url [http://persona-l.com/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA!] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fpersona-l.com%2Fitemlist%2Ftag%2F%25%440%2592%25%440%25%42%44%25%440%25%428%25%440%25%42%43%25%440%25%420%25%440%25%42%44%25%440%25%428%25%440%25%425%21%2520%25%440%259%43%25%440%25%42%45%25%441%2588%25%440%25%425%25%440%25%42%44%25%440%25%42%44%25%440%25%428%25%440%25%42%41%21&ip=104.31.87.36]
+[19:31:57] Url [http://persona-l.com/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA!] Blocked
+[19:31:57] HOST http://persona-l.com/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA! is Blocked
+[19:31:57] HOST http://www.news-sirotin.com/rassledovaniya/2275 Warning: [Время ожидания операции истекло] delay 1332 ms
+[19:31:57] [53 of 78] at [3] s
+[19:31:57] HOST http://www.news-sirotin.com/rassledovaniya/2275 is Unavailable
+[19:31:57] [54 of 78] at [3] s
+[19:31:57] Url [http://baurgroupe.com/novosti/43906] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fbaurgroupe.com%2Fnovosti%2F43906&ip=195.201.222.101]
+[19:31:57] Url [http://baurgroupe.com/novosti/43906] Blocked
+[19:31:57] HOST http://baurgroupe.com/novosti/43906 is Blocked
+[19:31:57] [55 of 78] at [3] s
+[19:31:57] HOST https://poisk-vk.ru Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 228 ms
+[19:31:57] HOST https://poisk-vk.ru is Unavailable
+[19:31:57] [56 of 78] at [3] s
+[19:31:57] Url [http://persona-l.com/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fpersona-l.com%2Fitemlist%2Ftag%2F%25%440%25%415%25%440%25%420%25%441%2580%25%440%25%428%25%441%2582%25%440%25%428%25%440%25%42%44%2520%25%440%2594%25%440%25%42%43%25%440%25%428%25%441%2582%25%441%2580%25%440%25%428%25%440%25%429%2520%25%440%2592%25%440%25%42%42%25%440%25%420%25%440%25%424%25%440%25%428%25%440%25%42%43%25%440%25%428%25%441%2580%25%440%25%42%45%25%440%25%422%25%440%25%428%25%441%2587&ip=104.31.87.36]
+[19:31:57] Url [http://moscowstreets.net/item/11829-robson-sankcionnyy-sponsor-vorov-v-zakone] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fmoscowstreets.net%2Fitem%2F11829-robson-sankcionnyy-sponsor-vorov-v-zakone&ip=104.18.60.200]
+[19:31:57] Url [http://persona-l.com/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87] Blocked
+[19:31:57] Url [http://moscowstreets.net/item/11829-robson-sankcionnyy-sponsor-vorov-v-zakone] Blocked
+[19:31:57] HOST http://persona-l.com/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87 is Blocked
+[19:31:57] HOST http://moscowstreets.net/item/11829-robson-sankcionnyy-sponsor-vorov-v-zakone is Blocked
+[19:31:57] [57 of 78] at [3] s
+[19:31:57] [57 of 78] at [3] s
+[19:31:57] Url [http://info-expert.net/novosti/item/1056-bandit-robson-khozyain-sochi] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Finfo-expert.net%2Fnovosti%2Fitem%2F1056-bandit-robson-khozyain-sochi&ip=104.28.25.71]
+[19:31:57] Url [http://info-expert.net/novosti/item/1056-bandit-robson-khozyain-sochi] Blocked
+[19:31:57] HOST http://info-expert.net/novosti/item/1056-bandit-robson-khozyain-sochi is Blocked
+[19:31:57] [59 of 78] at [3] s
+[19:31:57] Url [http://stctv.ru/8842-17-artur-molodoj-erevanskuyu-sxodku-po-zadaniyu-shakro-molodogo-organizovyvali-robson-ruben-tatulyan-i-kostya-manukyan.html] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fstctv.ru%2F8842-17-artur-molodoj-erevanskuyu-sxodku-po-zadaniyu-shakro-molodogo-organizovyvali-robson-ruben-tatulyan-i-kostya-manukyan.html&ip=104.31.91.140]
+[19:31:57] Url [http://stctv.ru/8842-17-artur-molodoj-erevanskuyu-sxodku-po-zadaniyu-shakro-molodogo-organizovyvali-robson-ruben-tatulyan-i-kostya-manukyan.html] Blocked
+[19:31:57] HOST http://stctv.ru/8842-17-artur-molodoj-erevanskuyu-sxodku-po-zadaniyu-shakro-molodogo-organizovyvali-robson-ruben-tatulyan-i-kostya-manukyan.html is Blocked
+[19:31:57] Url [http://www.phoneru.com/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.phoneru.com%2F&ip=104.24.127.229]
+[19:31:57] [60 of 78] at [3] s
+[19:31:57] Url [http://www.phoneru.com/] Blocked
+[19:31:57] HOST http://www.phoneru.com/ is Blocked
+[19:31:57] [61 of 78] at [3] s
+[19:31:57] Url [http://www.compromat.ru/page_38684.htm] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.compromat.ru%2Fpage_38684.htm&ip=91.202.63.16]
+[19:31:57] Url [http://www.compromat.ru/page_38684.htm] Blocked
+[19:31:57] HOST http://www.compromat.ru/page_38684.htm is Blocked
+[19:31:57] [62 of 78] at [3] s
+[19:31:57] Url [http://novostiua.org/news/790856-pochemu_v_sochi_terpjat_vlastj_bandy_vora_i_ubijtsy_tatuljana_po_klichke_robson] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnovostiua.org%2Fnews%2F790856-pochemu_v_sochi_terpjat_vlastj_bandy_vora_i_ubijtsy_tatuljana_po_klichke_robson&ip=185.203.72.9]
+[19:31:57] Url [http://novostiua.org/news/790856-pochemu_v_sochi_terpjat_vlastj_bandy_vora_i_ubijtsy_tatuljana_po_klichke_robson] Blocked
+[19:31:57] HOST http://novostiua.org/news/790856-pochemu_v_sochi_terpjat_vlastj_bandy_vora_i_ubijtsy_tatuljana_po_klichke_robson is Blocked
+[19:31:57] [63 of 78] at [3] s
+[19:31:57] Url [http://prokurorska-pravda.com/novosti/item/13374-robson-sankcionnyy-sponsor-vorov-v-zakone] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fprokurorska-pravda.com%2Fnovosti%2Fitem%2F13374-robson-sankcionnyy-sponsor-vorov-v-zakone&ip=104.27.153.82]
+[19:31:57] Url [http://prokurorska-pravda.com/novosti/item/13374-robson-sankcionnyy-sponsor-vorov-v-zakone] Blocked
+[19:31:57] HOST http://prokurorska-pravda.com/novosti/item/13374-robson-sankcionnyy-sponsor-vorov-v-zakone is Blocked
+[19:31:57] [64 of 78] at [3] s
+[19:31:57] Url [http://raketa.press/pochemu-v-sochi-terpyat-vlast-bandy-vora-i-ubijcy-tatulyana-po-klichke-robson/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fraketa.press%2Fpochemu-v-sochi-terpyat-vlast-bandy-vora-i-ubijcy-tatulyana-po-klichke-robson%2F&ip=104.31.70.88]
+[19:31:57] Url [http://raketa.press/pochemu-v-sochi-terpyat-vlast-bandy-vora-i-ubijcy-tatulyana-po-klichke-robson/] Blocked
+[19:31:57] HOST http://raketa.press/pochemu-v-sochi-terpyat-vlast-bandy-vora-i-ubijcy-tatulyana-po-klichke-robson/ is Blocked
+[19:31:58] Url [http://chelyabinsknomer.com/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fchelyabinsknomer.com%2F&ip=212.83.158.227]
+[19:31:58] [65 of 78] at [3] s
+[19:31:58] Url [http://chelyabinsknomer.com/] Blocked
+[19:31:58] HOST http://chelyabinsknomer.com/ is Blocked
+[19:31:58] HOST http://persona-l.com/item/10786-vnimanie-moshennik-haritin-dmitriy-vladimirovich Warning: [Время ожидания операции истекло] delay 399 ms
+[19:31:58] HOST http://centrzakona.info/reviews/show Warning: [Время ожидания операции истекло] delay 861 ms
+[19:31:58] [66 of 78] at [3] s
+[19:31:58] Url [http://sosmesh.com/item/4314-1518216444] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fsosmesh.com%2Fitem%2F4314-1518216444&ip=104.27.184.194]
+[19:31:58] HOST http://persona-l.com/item/10786-vnimanie-moshennik-haritin-dmitriy-vladimirovich is Unavailable
+[19:31:58] HOST http://centrzakona.info/reviews/show is Unavailable
+[19:31:58] Url [http://sosmesh.com/item/4314-1518216444] Blocked
+[19:31:58] [67 of 78] at [3] s
+[19:31:58] [67 of 78] at [3] s
+[19:31:58] HOST http://sosmesh.com/item/4314-1518216444 is Blocked
+[19:31:58] HOST https://ru.doc.guru/moskva/doctor/careva-n-v Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 265 ms
+[19:31:58] [69 of 78] at [3] s
+[19:31:58] HOST https://ru.doc.guru/moskva/doctor/careva-n-v is Unavailable
+[19:31:58] [70 of 78] at [3] s
+[19:31:58] Url [http://polemika.top/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA!] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fpolemika.top%2Fitemlist%2Ftag%2F%25%440%2592%25%440%25%42%44%25%440%25%428%25%440%25%42%43%25%440%25%420%25%440%25%42%44%25%440%25%428%25%440%25%425%21%2520%25%440%259%43%25%440%25%42%45%25%441%2588%25%440%25%425%25%440%25%42%44%25%440%25%42%44%25%440%25%428%25%440%25%42%41%21&ip=104.28.3.217]
+[19:31:58] Url [http://polemika.top/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA!] Blocked
+[19:31:58] HOST http://polemika.top/itemlist/tag/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5!%20%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA! is Blocked
+[19:31:58] [71 of 78] at [4] s
+[19:31:58] Url [http://rusanswers.com/pervaya-polosa/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Frusanswers.com%2Fpervaya-polosa%2Fitemlist%2Ftag%2F%25%440%25%415%25%440%25%420%25%441%2580%25%440%25%428%25%441%2582%25%440%25%428%25%440%25%42%44%2520%25%440%2594%25%440%25%42%43%25%440%25%428%25%441%2582%25%441%2580%25%440%25%428%25%440%25%429%2520%25%440%2592%25%440%25%42%42%25%440%25%420%25%440%25%424%25%440%25%428%25%440%25%42%43%25%440%25%428%25%441%2580%25%440%25%42%45%25%440%25%422%25%440%25%428%25%441%2587&ip=104.27.159.48]
+[19:31:58] Url [http://rusanswers.com/pervaya-polosa/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87] Blocked
+[19:31:58] HOST http://rusanswers.com/pervaya-polosa/itemlist/tag/%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87 is Blocked
+[19:31:58] [72 of 78] at [4] s
+[19:31:58] HOST https://bugabooks.com/post/229099 Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 204 ms
+[19:31:58] HOST https://bugabooks.com/post/229099 is Unavailable
+[19:31:58] [73 of 78] at [4] s
+[19:31:58] Url [http://prokurorska-pravda.today/novosti/item/103407-otsidevshij-za-afery-dmitrij-kharitin-prodolzhaet-grabit-rossiyan] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fprokurorska-pravda.today%2Fnovosti%2Fitem%2F103407-otsidevshij-za-afery-dmitrij-kharitin-prodolzhaet-grabit-rossiyan&ip=104.27.139.166]
+[19:31:58] HOST https://work-info.org/chernyj-spisok-sotrudnikov/1257-yuzikov-aleksandr-aleksandrovich Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 279 ms
+[19:31:58] Url [http://novostiua.org/news/588956-robson_sanktsionnyj_sponsor_vorov_v_zakone] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnovostiua.org%2Fnews%2F588956-robson_sanktsionnyj_sponsor_vorov_v_zakone&ip=185.203.72.9]
+[19:31:58] Url [http://prokurorska-pravda.today/novosti/item/103407-otsidevshij-za-afery-dmitrij-kharitin-prodolzhaet-grabit-rossiyan] Blocked
+[19:31:58] HOST https://work-info.org/chernyj-spisok-sotrudnikov/1257-yuzikov-aleksandr-aleksandrovich is Unavailable
+[19:31:58] Url [http://novostiua.org/news/588956-robson_sanktsionnyj_sponsor_vorov_v_zakone] Blocked
+[19:31:58] HOST http://prokurorska-pravda.today/novosti/item/103407-otsidevshij-za-afery-dmitrij-kharitin-prodolzhaet-grabit-rossiyan is Blocked
+[19:31:58] [74 of 78] at [4] s
+[19:31:58] HOST http://novostiua.org/news/588956-robson_sanktsionnyj_sponsor_vorov_v_zakone is Blocked
+[19:31:58] [74 of 78] at [4] s
+[19:31:58] [75 of 78] at [4] s
+[19:31:58] Url [http://bravo-city.com/item/23389-otsidevshiy-za-afery-dmitriy-haritin-prodolzhaet-grabit-rossiyan] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fbravo-city.com%2Fitem%2F23389-otsidevshiy-za-afery-dmitriy-haritin-prodolzhaet-grabit-rossiyan&ip=104.18.61.69]
+[19:31:58] Url [http://bravo-city.com/item/23389-otsidevshiy-za-afery-dmitriy-haritin-prodolzhaet-grabit-rossiyan] Blocked
+[19:31:58] HOST http://bravo-city.com/item/23389-otsidevshiy-za-afery-dmitriy-haritin-prodolzhaet-grabit-rossiyan is Blocked
+[19:31:58] [77 of 78] at [4] s
+[19:31:58] Url [http://nomer-ok.info] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnomer-ok.info%2F&ip=104.31.71.54]
+[19:31:58] Url [http://nomer-ok.info] Blocked
+[19:31:58] HOST http://nomer-ok.info is Blocked
+[19:31:58] [78 of 78] at [4] s
+[19:31:58] Total Time: [4 s]
+====================================================================================================

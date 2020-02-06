@@ -1,0 +1,88 @@
+[14:33:44] ----------------------------------------------------------------------------------------------------
+[14:33:44] TraceRoute to ya.ru
+[14:33:44] ----------------------------------------------------------------------------------------------------
+[14:33:44] 192.168.0.1
+[14:33:44] 83.102.224.213
+[14:33:44] 78.107.38.221
+[14:33:53] 62.231.18.153
+[14:33:53] 79.104.225.57
+[14:33:53] 213.33.201.230
+[14:33:53] 87.250.250.242
+[14:33:53] 192.168.0.1
+[14:33:53] 83.102.224.213
+[14:33:53] 78.107.38.221
+[14:33:53] 62.231.18.153
+[14:33:53] 79.104.225.57
+[14:33:53] 213.33.201.230
+[14:33:53] 87.250.250.242
+[14:33:53] ----------------------------------------------------------------------------------------------------
+[14:33:53] Loading Domains from Settings\domains.txt
+[14:33:53] **************************************************
+[14:33:53] blocked.mts.ru
+[14:33:53] **************************************************
+[14:33:53] Loading Stubs from Settings\stubs.txt
+[14:33:53] **************************************************
+[14:33:53]             <div class="page-error__text">
+[14:33:53]                 Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г.&nbsp;N&nbsp;149-ФЗ "Об информации, информационных технологиях и о защите информации"
+[14:33:53]             </div>
+[14:33:53] **************************************************
+[14:33:53] 
+******Begin Reading********
+
+[14:33:53] File: D:\ifbs\3 курс\практика\BlockChecker v0.31\BlockChecker\bin\Debug\1.txt
+[14:33:53] Total Lines: 13
+[14:33:53] Session Read Warning [Файл 'D:\ifbs\3 курс\практика\BlockChecker v0.31\BlockChecker\bin\Debug\Sessions\session-20200206143344-U.txt' не найден.[
+[14:33:53] #1577156 URL: http://www.экотех.com DOMAIN: www.экотех.com IP: 212.224.118.117
+[14:33:54] HOST http://www.экотех.com Warning: [Невозможно соединиться с удаленным сервером] delay 181 ms
+[14:33:54] HOST http://www.экотех.com is Unavailable
+[14:33:54] [0 of 13] at [0] s
+[14:33:54] #1593536 URL: https://m.vk-m.ru DOMAIN: m.vk-m.ru IP: 104.27.181.38
+[14:33:54] HOST https://m.vk-m.ru Warning: [Невозможно соединиться с удаленным сервером] delay 209 ms
+[14:33:54] HOST https://m.vk-m.ru is Unavailable
+[14:33:54] [1 of 13] at [0] s
+[14:33:54] #1585897 URL: http://www.zewaka.net/2018/07/08/8740.html DOMAIN: www.zewaka.net IP: 104.27.138.233
+[14:33:54] HOST http://www.zewaka.net/2018/07/08/8740.html Warning: [Невозможно соединиться с удаленным сервером] delay 64 ms
+[14:33:54] HOST http://www.zewaka.net/2018/07/08/8740.html is Unavailable
+[14:33:54] [2 of 13] at [0] s
+[14:33:54] #1584980 URL: http://evgeniy-volnov.hk/ DOMAIN: evgeniy-volnov.hk IP: 104.28.24.57
+[14:33:54] HOST http://evgeniy-volnov.hk/ Warning: [Невозможно соединиться с удаленным сервером] delay 83 ms
+[14:33:54] HOST http://evgeniy-volnov.hk/ is Unavailable
+[14:33:54] [3 of 13] at [0] s
+[14:33:54] #1583670 URL: https://ru.nomer-ok.info DOMAIN: ru.nomer-ok.info IP: 104.31.70.54
+[14:33:54] HOST https://ru.nomer-ok.info Warning: [Невозможно разрешить удаленное имя: 'ru.nomer-ok.info'] delay 103 ms
+[14:33:54] HOST https://ru.nomer-ok.info is Unavailable
+[14:33:54] [4 of 13] at [0] s
+[14:33:54] #1577436 URL: http://nomer.center DOMAIN: nomer.center IP: 91.220.101.43
+[14:33:54] HOST http://nomer.center Warning: [Невозможно соединиться с удаленным сервером] delay 119 ms
+[14:33:54] HOST http://nomer.center is Unavailable
+[14:33:54] [5 of 13] at [0] s
+[14:33:54] #1577436 URL:  DOMAIN: nomer.center IP: 91.220.101.43
+[14:33:54] HOST http://nomer.center Warning: [Невозможно соединиться с удаленным сервером] delay 0 ms
+[14:33:54] HOST http://nomer.center is Unavailable
+[14:33:54] [6 of 13] at [0] s
+[14:33:54] #1577436 URL:  DOMAIN:  IP: 91.220.101.43
+[14:33:54] HOST http://91.220.101.43 Warning: [Невозможно соединиться с удаленным сервером] delay 1 ms
+[14:33:54] HOST http://91.220.101.43 is Unavailable
+[14:33:54] [7 of 13] at [0] s
+[14:33:54] #1577436 URL:  DOMAIN: nomer.center IP: 
+[14:33:54] HOST http://nomer.center Warning: [Невозможно соединиться с удаленным сервером] delay 1 ms
+[14:33:54] HOST http://nomer.center is Unavailable
+[14:33:54] [8 of 13] at [0] s
+[14:33:54] #01 URL: http://vk.com DOMAIN: vk.com IP: 93.168.225.193
+[14:33:54] HOST http://vk.com Warning: [Невозможно соединиться с удаленным сервером] delay 26 ms
+[14:33:54] HOST http://vk.com is Unavailable
+[14:33:54] [9 of 13] at [0] s
+[14:33:54] #02 URL: https://yandex.ru DOMAIN: ya.ru IP: 5.15.5.15
+[14:33:54] HOST https://yandex.ru Warning: [Невозможно соединиться с удаленным сервером] delay 30 ms
+[14:33:54] HOST https://yandex.ru is Unavailable
+[14:33:54] [10 of 13] at [0] s
+[14:33:54] #012 URL: https://yandex.ru/ DOMAIN: ya1.ru IP: 5.15.1.15
+[14:33:54] HOST https://yandex.ru/ Warning: [Невозможно соединиться с удаленным сервером] delay 0 ms
+[14:33:54] HOST https://yandex.ru/ is Unavailable
+[14:33:54] [11 of 13] at [0] s
+[14:33:54] #1 URL: https://www.youtube.com/ DOMAIN: dsa.12 IP: 3.5.48.0
+[14:33:54] HOST https://www.youtube.com/ Warning: [Невозможно соединиться с удаленным сервером] delay 33 ms
+[14:33:54] HOST https://www.youtube.com/ is Unavailable
+[14:33:54] [12 of 13] at [1] s
+[14:33:54] Checked [13] URL's at [1010] ms
+[14:33:54] Total Time: [1 s]

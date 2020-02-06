@@ -1,0 +1,89 @@
+MachineName: SMILEX-PC
+====================================================================================================
+[22:07:57] 
+******Begin Reading********
+[22:07:57] From File: Settings\domains.txt
+[22:07:57] Loaded [1] Lines at [31] ms from [Settings\domains.txt]
+[22:07:57] 
+******Begin Reading********
+[22:07:57] From File: Settings\stubs.txt
+[22:07:57] Loaded [3] Lines at [7] ms from [Settings\stubs.txt]
+[22:08:01] ----------------------------------------------------------------------------------------------------
+[22:08:01] TraceRoute to ya.ru
+[22:08:01] ----------------------------------------------------------------------------------------------------
+[22:08:01] 192.168.1.1
+[22:08:01] 80.92.216.9
+[22:08:01] 80.92.216.133
+[22:08:01] 80.92.216.98
+[22:08:01] 212.188.23.204
+[22:08:01] 212.188.55.38
+[22:08:01] 212.188.28.57
+[22:08:01] 212.188.29.25
+[22:08:01] 212.188.28.150
+[22:08:01] 212.188.28.137
+[22:08:01] 195.34.36.30
+[22:08:01] 87.250.250.242
+[22:08:01] ----------------------------------------------------------------------------------------------------
+[22:08:01] Loading Domains from Settings\domains.txt
+[22:08:01] **************************************************
+[22:08:01] blocked.mts.ru
+[22:08:01] **************************************************
+[22:08:01] Loading Stubs from Settings\stubs.txt
+[22:08:01] **************************************************
+[22:08:01]             <div class="page-error__text">
+[22:08:01]                 Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г.&nbsp;N&nbsp;149-ФЗ "Об информации, информационных технологиях и о защите информации"
+[22:08:01]             </div>
+[22:08:01] **************************************************
+[22:08:01] 
+******Begin Reading********
+
+[22:08:01] File: F:\Debug\1.txt
+[22:08:01] #1 URL: http://www.экотех.com DOMAIN: www.экотех.com IP: 212.224.118.117
+[22:08:01] #2 URL: https://m.vk-m.ru DOMAIN: m.vk-m.ru IP: 104.27.181.38
+[22:08:01] #3 URL: http://www.zewaka.net/2018/07/08/8740.html DOMAIN: www.zewaka.net IP: 104.27.138.233
+[22:08:01] #4 URL: http://evgeniy-volnov.hk/ DOMAIN: evgeniy-volnov.hk IP: 104.28.24.57
+[22:08:01] #5 URL: https://ru.nomer-ok.info DOMAIN: ru.nomer-ok.info IP: 104.31.70.54
+[22:08:01] #6 URL: http://nomer.center DOMAIN: nomer.center IP: 91.220.101.43
+[22:08:01] #7 URL:  DOMAIN: nomer.center IP: 91.220.101.43
+[22:08:01] #8 URL:  DOMAIN:  IP: 91.220.101.43
+[22:08:01] #9 URL:  DOMAIN: nomer.center IP: 
+[22:08:01] #10 URL: http://vk.com DOMAIN: vk.com IP: 93.168.225.193
+[22:08:01] Loaded [11] URL's at [31] ms
+[22:08:01] Url [http://www.zewaka.net/2018/07/08/8740.html] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.zewaka.net%2F2018%2F07%2F08%2F8740.html&ip=104.27.139.233]
+[22:08:01] Url [http://www.zewaka.net/2018/07/08/8740.html] Blocked
+[22:08:01] HOST http://www.zewaka.net/2018/07/08/8740.html is Blocked
+[22:08:01] [1 of 10] at [0] s
+[22:08:01] Response http://www.экотех.com at 182 ms
+[22:08:01] Url [http://evgeniy-volnov.hk/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fevgeniy-volnov.hk%2F&ip=104.28.24.57]
+[22:08:01] HOST https://ru.nomer-ok.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 203 ms
+[22:08:01] Url [http://evgeniy-volnov.hk/] Blocked
+[22:08:01] HOST https://ru.nomer-ok.info is Unavailable
+[22:08:01] HOST http://evgeniy-volnov.hk/ is Blocked
+[22:08:01] [2 of 10] at [0] s
+[22:08:01] [2 of 10] at [0] s
+[22:08:02] Url [http://nomer.center] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnomer.center%2F&ip=91.220.101.43]
+[22:08:02] Url [http://nomer.center] Blocked
+[22:08:02] HOST http://nomer.center is Blocked
+[22:08:02] [4 of 10] at [0] s
+[22:08:02] Url [http://nomer.center] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnomer.center%2F&ip=91.220.101.43]
+[22:08:02] Url [http://nomer.center] Blocked
+[22:08:02] HOST http://nomer.center is Blocked
+[22:08:02] [5 of 10] at [0] s
+[22:08:02] HOST http://www.экотех.com is Blocked
+[22:08:02] [6 of 10] at [0] s
+[22:08:02] Url [http://91.220.101.43] Redirected to [http://nomer-org.center/]
+[22:08:02] HOST https://m.vk-m.ru Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 102 ms
+[22:08:02] HOST https://m.vk-m.ru is Unavailable
+[22:08:02] [7 of 10] at [0] s
+[22:08:02] HOST http://nomer.center Warning: [Время ожидания операции истекло] delay 320 ms
+[22:08:02] HOST http://nomer.center is Unavailable
+[22:08:02] [8 of 10] at [0] s
+[22:08:02] Url [http://vk.com] Redirected to [https://vk.com/]
+[22:08:02] Response http://91.220.101.43 at 834 ms
+[22:08:02] HOST http://91.220.101.43 is Available
+[22:08:02] [9 of 10] at [1] s
+[22:08:02] Response http://vk.com at 447 ms
+[22:08:02] HOST http://vk.com is Available
+[22:08:02] [10 of 10] at [1] s
+[22:08:02] Total Time: [1 s]
+====================================================================================================

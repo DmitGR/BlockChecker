@@ -1,0 +1,115 @@
+[12:40:20] ----------------------------------------------------------------------------------------------------
+[12:40:20] TraceRoute to ya.ru
+[12:40:20] ----------------------------------------------------------------------------------------------------
+[12:40:20] 192.168.1.1
+[12:40:20] 80.92.216.9
+[12:40:20] 80.92.216.133
+[12:40:20] 80.92.216.98
+[12:40:20] 212.188.23.204
+[12:40:20] 212.188.55.38
+[12:40:20] 212.188.28.57
+[12:40:20] 212.188.29.25
+[12:40:20] 212.188.28.150
+[12:40:20] 212.188.28.137
+[12:40:20] 195.34.36.30
+[12:40:20] 87.250.250.242
+[12:40:20] 192.168.1.1
+[12:40:21] 80.92.216.9
+[12:40:21] 80.92.216.133
+[12:40:21] 80.92.216.98
+[12:40:21] 212.188.23.204
+[12:40:21] 212.188.55.38
+[12:40:21] 212.188.28.57
+[12:40:21] 212.188.29.25
+[12:40:21] 212.188.28.150
+[12:40:21] 212.188.28.137
+[12:40:21] 195.34.36.30
+[12:40:21] 87.250.250.242
+[12:40:21] ----------------------------------------------------------------------------------------------------
+[12:40:21] Loading Domains from Settings\domains.txt
+[12:40:21] **************************************************
+[12:40:21] blocked.mts.ru
+[12:40:21] **************************************************
+[12:40:21] Loading Stubs from Settings\stubs.txt
+[12:40:21] **************************************************
+[12:40:21]             <div class="page-error__text">
+[12:40:21]                 Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г.&nbsp;N&nbsp;149-ФЗ "Об информации, информационных технологиях и о защите информации"
+[12:40:21]             </div>
+[12:40:21] **************************************************
+[12:40:21] 
+******Begin Reading********
+
+[12:40:21] File: F:\BlockChecker v0.3\BlockChecker\bin\Debug\dump-905614_2019_07_08.txt
+[12:40:21] Total Lines: 78
+[12:40:21] Session Read Warning [Файл 'F:\BlockChecker v0.31\BlockChecker\bin\Debug\Sessions\session-20190715124019-U.txt' не найден.[
+[12:40:21] #1601652 URL: http://rzd.company DOMAIN: rzd.company IP: 188.242.178.192
+[12:40:21] Url [http://rzd.company] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Frzd.company%2F&ip=188.242.178.192]
+[12:40:21] Url [http://rzd.company] Blocked
+[12:40:21] HOST http://rzd.company is Blocked
+[12:40:21] [0 of 78] at [0] s
+[12:40:21] #1599466 URL: http://allll.net/wiki/Антон_Викторович_Карпиевич DOMAIN: allll.net IP: 104.24.96.128
+[12:40:21] Url [http://allll.net/wiki/Антон_Викторович_Карпиевич] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fallll.net%2Fwiki%2F%25%440%2590%25%440%25%42%44%25%441%2582%25%440%25%42%45%25%440%25%42%44_%25%440%2592%25%440%25%428%25%440%25%42%41%25%441%2582%25%440%25%42%45%25%441%2580%25%440%25%42%45%25%440%25%422%25%440%25%428%25%441%2587_%25%440%259%41%25%440%25%420%25%441%2580%25%440%25%42%46%25%440%25%428%25%440%25%425%25%440%25%422%25%440%25%428%25%441%2587&ip=104.24.96.128]
+[12:40:21] Url [http://allll.net/wiki/Антон_Викторович_Карпиевич] Blocked
+[12:40:21] HOST http://allll.net/wiki/Антон_Викторович_Карпиевич is Blocked
+[12:40:21] [1 of 78] at [0] s
+[12:40:21] #1597277 URL: https://tspravochnik.com DOMAIN: tspravochnik.com IP: 190.2.148.206
+[12:40:21] HOST https://tspravochnik.com Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 105 ms
+[12:40:21] HOST https://tspravochnik.com is Unavailable
+[12:40:21] [2 of 78] at [0] s
+[12:40:21] #1593537 URL: http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815 DOMAIN: forum.ozpp.ru IP: 95.163.66.107
+[12:40:21] Url [http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fforum.ozpp.ru%2Fshowthread.php%3Fmode%3Dhyprid%26t%3D187815&ip=95.163.66.107]
+[12:40:22] Url [http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815] Blocked
+[12:40:22] HOST http://forum.ozpp.ru/showthread.php?mode=hyprid&t=187815 is Blocked
+[12:40:22] [3 of 78] at [0] s
+[12:40:22] #1593536 URL: https://m.vk-m.ru DOMAIN: m.vk-m.ru IP: 104.27.181.38
+[12:40:22] HOST https://m.vk-m.ru Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 158 ms
+[12:40:22] HOST https://m.vk-m.ru is Unavailable
+[12:40:22] [4 of 78] at [0] s
+[12:40:22] #1585897 URL: http://www.zewaka.net/2018/07/08/8740.html DOMAIN: www.zewaka.net IP: 104.27.138.233
+[12:40:22] Url [http://www.zewaka.net/2018/07/08/8740.html] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fwww.zewaka.net%2F2018%2F07%2F08%2F8740.html&ip=104.27.138.233]
+[12:40:22] Url [http://www.zewaka.net/2018/07/08/8740.html] Blocked
+[12:40:22] HOST http://www.zewaka.net/2018/07/08/8740.html is Blocked
+[12:40:22] [5 of 78] at [1] s
+[12:40:22] #1584980 URL: http://evgeniy-volnov.hk/ DOMAIN: evgeniy-volnov.hk IP: 104.28.24.57
+[12:40:22] Url [http://evgeniy-volnov.hk/] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fevgeniy-volnov.hk%2F&ip=104.28.24.57]
+[12:40:22] Url [http://evgeniy-volnov.hk/] Blocked
+[12:40:22] HOST http://evgeniy-volnov.hk/ is Blocked
+[12:40:22] [6 of 78] at [1] s
+[12:40:22] #1583670 URL: https://ru.nomer-ok.info DOMAIN: ru.nomer-ok.info IP: 104.31.70.54
+[12:40:22] HOST https://ru.nomer-ok.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 157 ms
+[12:40:22] HOST https://ru.nomer-ok.info is Unavailable
+[12:40:22] [7 of 78] at [1] s
+[12:40:22] #1577436 URL: http://nomer.center DOMAIN: nomer.center IP: 91.220.101.43
+[12:40:22] ----------------------------------------------------------------------------------------------------
+[12:40:22] Forced Stop
+[12:40:22] ----------------------------------------------------------------------------------------------------
+[12:40:23] Url [http://nomer.center] Redirected to [http://blocked.mts.ru/?host=?url=http%3A%2F%2Fnomer.center%2F&ip=91.220.101.43]
+[12:40:23] Url [http://nomer.center] Blocked
+[12:40:23] HOST http://nomer.center is Blocked
+[12:40:23] [8 of 78] at [1] s
+[12:40:23] Checked [9] URL's at [1736] ms
+[12:40:23] Total Time: [1 s]
+[14:59:37] 
+******Begin Reading********
+[14:59:37] From File: Settings\domains.txt
+[14:59:37] Loaded [1] Lines at [65] ms from [Settings\domains.txt]
+[14:59:37] 
+******Begin Reading********
+[14:59:37] From File: Settings\stubs.txt
+[14:59:37] Loaded [3] Lines at [29] ms from [Settings\stubs.txt]
+[14:33:19] 
+******Begin Reading********
+[14:33:19] From File: Settings\domains.txt
+[14:33:19] Loaded [1] Lines at [26] ms from [Settings\domains.txt]
+[14:33:19] 
+******Begin Reading********
+[14:33:19] From File: Settings\stubs.txt
+[14:33:19] Loaded [3] Lines at [1] ms from [Settings\stubs.txt]
+[14:33:35] 
+******Begin Reading********
+[14:33:35] From File: Settings\domains.txt
+[14:33:35] Loaded [1] Lines at [14] ms from [Settings\domains.txt]
+[14:33:35] 
+******Begin Reading********
+[14:33:35] From File: Settings\stubs.txt
+[14:33:35] Loaded [3] Lines at [1] ms from [Settings\stubs.txt]

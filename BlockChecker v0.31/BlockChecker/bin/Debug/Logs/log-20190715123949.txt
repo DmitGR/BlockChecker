@@ -1,0 +1,8 @@
+[12:39:49] 
+******Begin Reading********
+[12:39:49] From File: Settings\domains.txt
+[12:39:49] Loaded [1] Lines at [85] ms from [Settings\domains.txt]
+[12:39:49] 
+******Begin Reading********
+[12:39:49] From File: Settings\stubs.txt
+[12:39:49] Loaded [3] Lines at [58] ms from [Settings\stubs.txt]

@@ -1,0 +1,10 @@
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\bin\Debug\BlockChecker.exe.config
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\bin\Debug\BlockChecker.exe
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\bin\Debug\BlockChecker.pdb
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.csprojAssemblyReference.cache
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.MainForm.resources
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.Properties.Resources.resources
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.csproj.GenerateResource.cache
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.csproj.CoreCompileInputs.cache
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.exe
+C:\Users\SmiLeX\source\repos\BlockChecker\BlockChecker\obj\Debug\BlockChecker.pdb

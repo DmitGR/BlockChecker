@@ -1,0 +1,182 @@
+MachineName: SMILEX-PC
+====================================================================================================
+[19:28:43] 
+******Begin Reading********
+[19:28:43] From File: Settings\domains.txt
+[19:28:43] Loaded [1] Lines at [22] ms from [Settings\domains.txt]
+[19:28:43] 
+******Begin Reading********
+[19:28:43] From File: Settings\stubs.txt
+[19:28:43] Loaded [3] Lines at [2] ms from [Settings\stubs.txt]
+[19:29:05] 
+******Begin Writing********
+[19:29:05] Into File: Settings\domains.txt
+[19:29:05] Writed [75] Lines at [1] ms to [Settings\domains.txt]
+[19:29:05] 
+******Begin Reading********
+[19:29:05] From File: Settings\domains.txt
+[19:29:05] Loaded [75] Lines at [1] ms from [Settings\domains.txt]
+[19:29:05] 
+******Begin Reading********
+[19:29:05] From File: Settings\stubs.txt
+[19:29:05] Loaded [3] Lines at [15] ms from [Settings\stubs.txt]
+[19:29:10] 
+******Begin Writing********
+[19:29:10] Into File: Settings\domains.txt
+[19:29:10] Writed [75] Lines at [1] ms to [Settings\domains.txt]
+[19:29:10] 
+******Begin Reading********
+[19:29:10] From File: Settings\domains.txt
+[19:29:10] Loaded [75] Lines at [1] ms from [Settings\domains.txt]
+[19:29:10] 
+******Begin Reading********
+[19:29:10] From File: Settings\stubs.txt
+[19:29:10] Loaded [3] Lines at [1] ms from [Settings\stubs.txt]
+[19:29:21] ----------------------------------------------------------------------------------------------------
+[19:29:21] TraceRoute to ya.ru
+[19:29:21] ----------------------------------------------------------------------------------------------------
+[19:29:21] 192.168.1.1
+[19:29:21] 80.92.216.9
+[19:29:21] 80.92.216.133
+[19:29:21] 80.92.216.98
+[19:29:21] 212.188.23.204
+[19:29:21] 212.188.55.38
+[19:29:21] 212.188.28.57
+[19:29:21] 212.188.29.25
+[19:29:21] 212.188.28.150
+[19:29:21] 212.188.28.137
+[19:29:21] 195.34.36.30
+[19:29:22] 87.250.250.242
+[19:29:22] ----------------------------------------------------------------------------------------------------
+[19:29:22] Loading Domains from Settings\domains.txt
+[19:29:22] **************************************************
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] blocked.mts.ru
+[19:29:22] **************************************************
+[19:29:22] Loading Stubs from Settings\stubs.txt
+[19:29:22] **************************************************
+[19:29:22]             <div class="page-error__text">
+[19:29:22]                 Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г.&nbsp;N&nbsp;149-ФЗ "Об информации, информационных технологиях и о защите информации"
+[19:29:22]             </div>
+[19:29:22] **************************************************
+[19:29:22] 
+******Begin Reading********
+
+[19:29:22] File: F:\Debug\1.txt
+[19:29:22] #1 URL: http://www.экотех.com DOMAIN: www.экотех.com IP: 212.224.118.117
+[19:29:22] #2 URL: https://m.vk-m.ru DOMAIN: m.vk-m.ru IP: 104.27.181.38
+[19:29:22] #3 URL: http://www.zewaka.net/2018/07/08/8740.html DOMAIN: www.zewaka.net IP: 104.27.138.233
+[19:29:22] #4 URL: http://evgeniy-volnov.hk/ DOMAIN: evgeniy-volnov.hk IP: 104.28.24.57
+[19:29:22] #5 URL: https://ru.nomer-ok.info DOMAIN: ru.nomer-ok.info IP: 104.31.70.54
+[19:29:22] #6 URL: http://nomer.center DOMAIN: nomer.center IP: 91.220.101.43
+[19:29:22] #7 URL:  DOMAIN: nomer.center IP: 91.220.101.43
+[19:29:22] #8 URL:  DOMAIN:  IP: 91.220.101.43
+[19:29:22] #9 URL:  DOMAIN: nomer.center IP: 
+[19:29:22] #10 URL: http://vk.com DOMAIN: vk.com IP: 93.168.225.193
+[19:29:22] Loaded [11] URL's at [37] ms
+[19:29:22] HOST https://ru.nomer-ok.info Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 314 ms
+[19:29:22] HOST https://ru.nomer-ok.info is Unavailable
+[19:29:22] [1 of 10] at [0] s
+[19:29:22] Response http://www.экотех.com at 358 ms
+[19:29:23] HOST http://www.экотех.com is Blocked
+[19:29:23] [2 of 10] at [0] s
+[19:29:23] HOST https://m.vk-m.ru Warning: [Базовое соединение закрыто: Не удалось установить доверительные отношения для защищенного канала SSL/TLS.] delay 154 ms
+[19:29:23] HOST https://m.vk-m.ru is Unavailable
+[19:29:23] [3 of 10] at [0] s
+[19:29:23] HOST http://www.zewaka.net/2018/07/08/8740.html Warning: [Время ожидания операции истекло] delay 1147 ms
+[19:29:23] HOST http://www.zewaka.net/2018/07/08/8740.html is Unavailable
+[19:29:23] [4 of 10] at [1] s
+[19:29:23] HOST http://nomer.center Warning: [Время ожидания операции истекло] delay 864 ms
+[19:29:23] HOST http://nomer.center Warning: [Время ожидания операции истекло] delay 1199 ms
+[19:29:23] HOST http://nomer.center is Unavailable
+[19:29:23] HOST http://nomer.center is Unavailable
+[19:29:23] [5 of 10] at [1] s
+[19:29:23] [5 of 10] at [1] s
+[19:29:23] HOST http://evgeniy-volnov.hk/ Warning: [Время ожидания операции истекло] delay 347 ms
+[19:29:23] HOST http://nomer.center Warning: [Время ожидания операции истекло] delay 321 ms
+[19:29:23] HOST http://evgeniy-volnov.hk/ is Unavailable
+[19:29:23] HOST http://nomer.center is Unavailable
+[19:29:23] [7 of 10] at [1] s
+[19:29:23] [7 of 10] at [1] s
+[19:29:23] Url [http://vk.com] Redirected to [https://vk.com/]
+[19:29:23] HOST http://91.220.101.43 Warning: [Время ожидания операции истекло] delay 329 ms
+[19:29:23] HOST http://91.220.101.43 is Unavailable
+[19:29:23] [9 of 10] at [1] s
+[19:29:24] Response http://vk.com at 531 ms
+[19:29:24] HOST http://vk.com is Available
+[19:29:24] [10 of 10] at [1] s
+[19:29:24] Total Time: [1 s]
+====================================================================================================
