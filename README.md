@@ -1,2 +1,2 @@
 # BlockChecker
- checking list of sites on blocking in your provider
+ checking the list of sites for blocking from your provider
